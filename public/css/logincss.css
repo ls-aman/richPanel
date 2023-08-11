@@ -1,0 +1,62 @@
+
+body{
+  background-color: #034694;
+}
+
+.login{
+  height: 100%;
+  width: 20%;
+  background-color: white;
+  margin-top: 12%;
+  margin-left: 38%;
+  border-radius: 5%;
+}
+
+.loghead{
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20%;
+}
+
+.btn{
+  width: 100%;
+  height: 60px;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  background-color: #034694;
+  font-size: 15px;
+}
+
+.btn:hover{
+  background-color: blue;
+}
+
+.form-control{
+  padding-bottom: 2%;
+  height: 50px;
+}
+
+.form-signin{
+  margin: 10%;
+}
+
+.blk{
+  padding-top: 8%;
+}
+
+.cblk{
+  padding-top: 5%;
+  padding-left: 2%;
+}
+
+.chkbox{
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+.para{
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 15%;
+}

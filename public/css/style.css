@@ -1,0 +1,62 @@
+
+body{
+  background-color: #034694;
+}
+
+.regForm{
+  height: 100%;
+  width: 23%;
+  background-color: white;
+  margin-top: 8%;
+  margin-left: 38%;
+  border-radius: 5%;
+}
+
+.signhead{
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20%;
+}
+
+.btn{
+  height: 60px;
+  width: 100%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  background-color: #034694;
+  font-size: 15px;
+}
+
+.btn:hover{
+  background-color: blue;
+}
+
+.form-control{
+  padding-bottom: 2%;
+  height: 50px;
+}
+
+.form-signin{
+  margin: 10%;
+}
+
+.blk{
+  padding-top: 8%;
+}
+
+.cblk{
+  padding-top: 5%;
+  padding-left: 2%;
+}
+
+.chkbox{
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+.para{
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
